@@ -40,12 +40,12 @@ Here is the list of cool application (or reimplemenation) of our SDK by expert u
 
 ## Useful Links
 
-- **Website**: [Elveflow](https://www.elveflow.com/)
-- **Linkedin**: [Elveflow](https://linkedin.com/company/elveflow)
-- **YouTube**: [Elveflow YouTube Channel](https://www.youtube.com/elveflow)
-- **Contact**: [contact@elveflow.com](https://support.elveflow.com/support/tickets/new)
-- **GitLab**: [@elveflow](https://gitlab.com/company/elveflow)
-- **GitHub**: [@elveflow](https://github.com/Elveflow)
+- [**Website**](https://www.elveflow.com/)
+- [**Linkedin**](https://linkedin.com/company/elveflow)
+- [**YouTube**](https://www.youtube.com/elveflow)
+- [**Contact**](https://support.elveflow.com/support/tickets/new)
+- [**GitLab**](https://gitlab.com/company/elveflow)
+- [**GitHub**](https://github.com/Elveflow)
 
 ## Contact Us
 
